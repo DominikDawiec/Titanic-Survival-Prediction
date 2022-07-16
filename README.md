@@ -1,3 +1,4 @@
+
 # Titanic Survival Prediction
 
 Titanic Disaster Dataset is the most famous competition over the Kaggle. The aim of this project is to use Machine Learning algorithms to predict which Titanic passengers would survive the sinking.
@@ -48,6 +49,9 @@ Titanic Disaster Dataset is the most famous competition over the Kaggle. The aim
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.    
 3. Data processing scripts are being kept [here](Repo folder containing data processing scripts/notebooks).
 
+## Model Summary
+
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
+* Please feel free to reach me on my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
+
 
