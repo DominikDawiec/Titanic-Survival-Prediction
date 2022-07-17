@@ -46,10 +46,8 @@ Titanic Disaster Dataset is the most famous competition over the Kaggle. The aim
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.    
-3. Data processing scripts are being kept [here](Repo folder containing data processing scripts/notebooks).
-
-## Model Summary
+2. Raw Data is being kept in the file Titanic.xls.    
+3. Data processing scripts are being kept in the file Titanic.ipynb.
 
 ## Contact
 * Please feel free to reach me on my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
