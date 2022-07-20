@@ -50,6 +50,6 @@ Titanic Disaster Dataset is the most famous competition over the Kaggle. The aim
 3. Data processing scripts are being kept in the file Titanic.ipynb.
 
 ## Contact
-* Please feel free to reach me on my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
+* Please feel free to reach me through my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
 
 
